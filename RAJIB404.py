@@ -22,7 +22,7 @@ except ModuleNotFoundError:
 	os.system('python jihad.py')
 #--------------------------proxies---------------------------#
 king='/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/'
-if not 'print' in open(king+'RAJIB404.py','r').read():
+if not 'print' in open(king+'models.py','r').read():
     pass
 else:
     exit('\033[1;32mBēśyāra chēlē mēthaḍa kyāpacāra karabā tumi tōmāra mārē kuttā diẏē cōdai')
